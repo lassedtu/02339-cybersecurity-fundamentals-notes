@@ -1,6 +1,6 @@
-# 02339 - Cybersecurity fundementals Notes
+# 02339 - Cybersecurity fundamentals Notes
 
-Personal notes for **02339 Cybersecurity fundementals**. Structured as an [Obsidian](https://obsidian.md/) vault, but works as plain Markdown.
+Personal notes for **02339 Cybersecurity fundamentals**. Structured as an [Obsidian](https://obsidian.md/) vault, but works as plain Markdown.
 
 ## Usage
 
@@ -12,13 +12,13 @@ Fork this repository to receive material updates while keeping your own notes.
 
 1. **Clone your fork:**
 ```bash
-git clone [https://github.com/YOUR_USERNAME/02339-cybersecurity-fundementals-notes.git](https://github.com/YOUR_USERNAME/02339-cybersecurity-fundementals-notes.git)
+git clone https://github.com/YOUR_USERNAME/02339-cybersecurity-fundementals-notes.git
 cd 02339-cybersecurity-fundementals-notes
 ```
 
 2. **Set upstream repository:**
 ```bash
-git remote add upstream [https://github.com/lassedtu/02339-cybersecurity-fundementals-notes.git](https://github.com/lassedtu/02339-cybersecurity-fundementals-notes.git)
+git remote add upstream https://github.com/lassedtu/02339-cybersecurity-fundementals-notes.git
 ```
 
 
@@ -45,10 +45,3 @@ If merge conflicts occur, resolve the `<<<<<<<` markers in your text editor, com
 ---
 
 Contributions and fixes welcome via pull requests or issues.
-
-### Search & Replace Placeholders
-* `02339` (e.g., `02326`)
-* `Cybersecurity fundementals` (e.g., `Algorithms and Data Structures`)
-* `02339-cybersecurity-fundementals-notes` (e.g., `02326-Algorithms-and-Data-Structures-Notes`)
-* `lassedtu` (e.g., `lassedtu`)
-* `YOUR_USERNAME`
